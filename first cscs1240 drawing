@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2020-09-16T13:25:37.251Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/85.0.4183.102 Safari/537.36" etag="8INWULikJ-KOH9Hl5cWp" version="13.7.1" type="github">
+<mxfile host="app.diagrams.net" modified="2020-09-29T13:50:15.007Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/85.0.4183.121 Safari/537.36" etag="hv7VTzefroveQQSvmDEp" version="13.7.3" type="github">
   <diagram id="ZCQg5q_FLv4in7YNtriU" name="Page-1">
-    <mxGraphModel dx="1422" dy="1894" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="580" dy="2015" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -981,32 +981,41 @@
         <mxCell id="VMBLKmKS7fXnHa8yHYhO-24" value="01" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" parent="1" vertex="1">
           <mxGeometry x="3935" y="240" width="30" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="Occ3axTh4bpp4tzR1Ppp-1" value="" style="endArrow=classic;html=1;entryX=0.6;entryY=1.075;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" target="czVXLRYzETD7MiYv8-yr-23">
+        <mxCell id="Occ3axTh4bpp4tzR1Ppp-1" value="" style="endArrow=classic;html=1;entryX=0.6;entryY=1.075;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" target="czVXLRYzETD7MiYv8-yr-23" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="3450" y="180" as="sourcePoint" />
             <mxPoint x="3500" y="130" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="Occ3axTh4bpp4tzR1Ppp-2" value="in a declaration this value is the capacity&amp;nbsp;&amp;nbsp;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" vertex="1" parent="1">
+        <mxCell id="Occ3axTh4bpp4tzR1Ppp-2" value="in a declaration this value is the capacity&amp;nbsp;&amp;nbsp;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" parent="1" vertex="1">
           <mxGeometry x="3320" y="180" width="240" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="Occ3axTh4bpp4tzR1Ppp-3" value="" style="endArrow=classic;html=1;entryX=0.1;entryY=1.175;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" target="czVXLRYzETD7MiYv8-yr-23">
+        <mxCell id="Occ3axTh4bpp4tzR1Ppp-3" value="" style="endArrow=classic;html=1;entryX=0.1;entryY=1.175;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" target="czVXLRYzETD7MiYv8-yr-23" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="3240" y="195" as="sourcePoint" />
             <mxPoint x="3290" y="145" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="Occ3axTh4bpp4tzR1Ppp-4" value="in a imperative this value is the index&amp;nbsp;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" vertex="1" parent="1">
+        <mxCell id="Occ3axTh4bpp4tzR1Ppp-4" value="in a imperative this value is the index&amp;nbsp;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" parent="1" vertex="1">
           <mxGeometry x="3315" y="200" width="210" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="Occ3axTh4bpp4tzR1Ppp-5" value="name" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" vertex="1" parent="1">
+        <mxCell id="Occ3axTh4bpp4tzR1Ppp-5" value="name" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" parent="1" vertex="1">
           <mxGeometry x="3205" y="190" width="50" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="Occ3axTh4bpp4tzR1Ppp-6" value="for a numeric address" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" vertex="1" parent="1">
+        <mxCell id="Occ3axTh4bpp4tzR1Ppp-6" value="for a numeric address" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" parent="1" vertex="1">
           <mxGeometry x="3155" y="210" width="130" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="Occ3axTh4bpp4tzR1Ppp-7" value="datatype is the type for each item in the array&amp;nbsp;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" vertex="1" parent="1">
+        <mxCell id="Occ3axTh4bpp4tzR1Ppp-7" value="datatype is the type for each item in the array&amp;nbsp;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" parent="1" vertex="1">
           <mxGeometry x="3525" y="50" width="260" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="FOjioUUaLWOoMVBnXs66-1" value="Design-time vs runtime" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" vertex="1" parent="1">
+          <mxGeometry x="3810" y="620" width="140" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="FOjioUUaLWOoMVBnXs66-2" value="execution model&lt;br&gt;runtime lifecycle phase&lt;br&gt;frameworks&amp;nbsp;&lt;br&gt;&amp;nbsp;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" vertex="1" parent="1">
+          <mxGeometry x="3440" y="630" width="140" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="FOjioUUaLWOoMVBnXs66-3" value="declarations vs imperatives&amp;nbsp;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" vertex="1" parent="1">
+          <mxGeometry x="3750" y="650" width="160" height="20" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
