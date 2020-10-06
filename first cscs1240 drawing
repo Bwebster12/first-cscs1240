@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2020-09-29T13:50:15.007Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/85.0.4183.121 Safari/537.36" etag="hv7VTzefroveQQSvmDEp" version="13.7.3" type="github">
+<mxfile host="app.diagrams.net" modified="2020-10-06T14:02:40.639Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/85.0.4183.121 Safari/537.36" etag="Y4gBgCqEHAHboCoQDuiW" version="13.7.6" type="github">
   <diagram id="ZCQg5q_FLv4in7YNtriU" name="Page-1">
-    <mxGraphModel dx="580" dy="2015" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="1422" dy="1894" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -1008,14 +1008,41 @@
         <mxCell id="Occ3axTh4bpp4tzR1Ppp-7" value="datatype is the type for each item in the array&amp;nbsp;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" parent="1" vertex="1">
           <mxGeometry x="3525" y="50" width="260" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="FOjioUUaLWOoMVBnXs66-1" value="Design-time vs runtime" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" vertex="1" parent="1">
+        <mxCell id="FOjioUUaLWOoMVBnXs66-1" value="Design-time vs runtime" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" parent="1" vertex="1">
           <mxGeometry x="3810" y="620" width="140" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="FOjioUUaLWOoMVBnXs66-2" value="execution model&lt;br&gt;runtime lifecycle phase&lt;br&gt;frameworks&amp;nbsp;&lt;br&gt;&amp;nbsp;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" vertex="1" parent="1">
+        <mxCell id="FOjioUUaLWOoMVBnXs66-2" value="execution model&lt;br&gt;runtime lifecycle phase&lt;br&gt;frameworks&amp;nbsp;&lt;br&gt;&amp;nbsp;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" parent="1" vertex="1">
           <mxGeometry x="3440" y="630" width="140" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="FOjioUUaLWOoMVBnXs66-3" value="declarations vs imperatives&amp;nbsp;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" vertex="1" parent="1">
+        <mxCell id="FOjioUUaLWOoMVBnXs66-3" value="declarations vs imperatives&amp;nbsp;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" parent="1" vertex="1">
           <mxGeometry x="3750" y="650" width="160" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="-9PEb3FOVGFtdfI5aEia-1" value="arithmetic&amp;nbsp;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" vertex="1" parent="1">
+          <mxGeometry x="3950" y="820" width="70" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="-9PEb3FOVGFtdfI5aEia-2" value="&lt;ul&gt;&lt;li&gt;addition (+)&lt;/li&gt;&lt;li&gt;subtraction (-)&lt;/li&gt;&lt;li&gt;multiplication (x)&lt;/li&gt;&lt;li&gt;division (/)&lt;/li&gt;&lt;/ul&gt;" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;" vertex="1" parent="1">
+          <mxGeometry x="3910" y="830" width="140" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="-9PEb3FOVGFtdfI5aEia-3" value="indexing ( [ ] )" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" vertex="1" parent="1">
+          <mxGeometry x="3940" y="930" width="90" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="-9PEb3FOVGFtdfI5aEia-4" value="&lt;u&gt;declaration&lt;br&gt;&lt;/u&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" vertex="1" parent="1">
+          <mxGeometry x="4065" y="650" width="70" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="-9PEb3FOVGFtdfI5aEia-5" value="rocks is one&lt;br&gt;ricks is &quot;one&quot;&lt;br&gt;rocks is 1&lt;br&gt;rocks is number" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" vertex="1" parent="1">
+          <mxGeometry x="4050" y="680" width="100" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="-9PEb3FOVGFtdfI5aEia-9" value="&lt;u&gt;imperative&lt;/u&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" vertex="1" parent="1">
+          <mxGeometry x="4215" y="650" width="70" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="-9PEb3FOVGFtdfI5aEia-10" value="assign rocks a value of 1&lt;br&gt;&lt;br&gt;assign rocks a value &quot;one&quot;&amp;nbsp;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" vertex="1" parent="1">
+          <mxGeometry x="4180" y="675" width="160" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="-9PEb3FOVGFtdfI5aEia-11" value="comparison&amp;nbsp;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" vertex="1" parent="1">
+          <mxGeometry x="4130" y="830" width="80" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="-9PEb3FOVGFtdfI5aEia-12" value="&lt;ul&gt;&lt;li&gt;greater (&amp;gt; gt )&lt;/li&gt;&lt;li&gt;lesser (&amp;lt; lt )&lt;/li&gt;&lt;li&gt;equivalence (== eq )&lt;/li&gt;&lt;li&gt;...&amp;nbsp;&lt;/li&gt;&lt;/ul&gt;" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;" vertex="1" parent="1">
+          <mxGeometry x="4105" y="850" width="160" height="90" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
